@@ -1,0 +1,7 @@
+C:\Users\PisarenkoD\source\repos\Kata1\Kata1\bin\Debug\Kata1.exe.config
+C:\Users\PisarenkoD\source\repos\Kata1\Kata1\bin\Debug\Kata1.exe
+C:\Users\PisarenkoD\source\repos\Kata1\Kata1\bin\Debug\Kata1.pdb
+C:\Users\PisarenkoD\source\repos\Kata1\Kata1\obj\Debug\Kata1.csprojResolveAssemblyReference.cache
+C:\Users\PisarenkoD\source\repos\Kata1\Kata1\obj\Debug\Kata1.csproj.CoreCompileInputs.cache
+C:\Users\PisarenkoD\source\repos\Kata1\Kata1\obj\Debug\Kata1.exe
+C:\Users\PisarenkoD\source\repos\Kata1\Kata1\obj\Debug\Kata1.pdb
