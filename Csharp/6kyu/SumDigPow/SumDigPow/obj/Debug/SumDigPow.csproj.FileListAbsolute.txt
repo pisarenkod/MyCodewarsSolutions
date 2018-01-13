@@ -1,0 +1,7 @@
+G:\Documents\Mityunchik\Programming\SumDigPow\SumDigPow\bin\Debug\SumDigPow.exe.config
+G:\Documents\Mityunchik\Programming\SumDigPow\SumDigPow\bin\Debug\SumDigPow.exe
+G:\Documents\Mityunchik\Programming\SumDigPow\SumDigPow\bin\Debug\SumDigPow.pdb
+G:\Documents\Mityunchik\Programming\SumDigPow\SumDigPow\obj\Debug\SumDigPow.csprojResolveAssemblyReference.cache
+G:\Documents\Mityunchik\Programming\SumDigPow\SumDigPow\obj\Debug\SumDigPow.csproj.CoreCompileInputs.cache
+G:\Documents\Mityunchik\Programming\SumDigPow\SumDigPow\obj\Debug\SumDigPow.exe
+G:\Documents\Mityunchik\Programming\SumDigPow\SumDigPow\obj\Debug\SumDigPow.pdb
