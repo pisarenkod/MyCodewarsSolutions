@@ -1,0 +1,7 @@
+C:\Users\PisarenkoD\source\repos\PrinterError\PrinterError\bin\Debug\PrinterError.exe.config
+C:\Users\PisarenkoD\source\repos\PrinterError\PrinterError\bin\Debug\PrinterError.exe
+C:\Users\PisarenkoD\source\repos\PrinterError\PrinterError\bin\Debug\PrinterError.pdb
+C:\Users\PisarenkoD\source\repos\PrinterError\PrinterError\obj\Debug\PrinterError.csprojResolveAssemblyReference.cache
+C:\Users\PisarenkoD\source\repos\PrinterError\PrinterError\obj\Debug\PrinterError.csproj.CoreCompileInputs.cache
+C:\Users\PisarenkoD\source\repos\PrinterError\PrinterError\obj\Debug\PrinterError.exe
+C:\Users\PisarenkoD\source\repos\PrinterError\PrinterError\obj\Debug\PrinterError.pdb
