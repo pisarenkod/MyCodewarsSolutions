@@ -18,9 +18,9 @@ namespace PrinterError
         public static string PrinterError(String s)
         {
             string temp = "";
-            Stopwatch stopwatch = new Stopwatch();
-            stopwatch.Start();
-            //Var 1:
+            //Stopwatch stopwatch = new Stopwatch();
+            //stopwatch.Start();
+            //Var 1(Best Practice):
             //temp = s.Where(c => c > 'm').Count() + "/" + s.Length;
 
             //Var 2:
@@ -45,11 +45,11 @@ namespace PrinterError
                 flag = false;
             }
             temp = i.ToString() + "/" + s.Length;
-            System.Threading.Thread.Sleep(10000);
-            stopwatch.Stop();
-            TimeSpan ts = stopwatch.Elapsed;
-            string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",ts.Hours, ts.Minutes, ts.Seconds,ts.Milliseconds / 10);
-            Console.WriteLine("RunTime " + elapsedTime);
+            //System.Threading.Thread.Sleep(10000);
+            //stopwatch.Stop();
+            //TimeSpan ts = stopwatch.Elapsed;
+            //string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",ts.Hours, ts.Minutes, ts.Seconds,ts.Milliseconds / 10);
+            //Console.WriteLine("RunTime " + elapsedTime);
             return temp;
         }
     }

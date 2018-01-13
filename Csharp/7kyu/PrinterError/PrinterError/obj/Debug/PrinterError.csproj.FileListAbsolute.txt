@@ -5,3 +5,10 @@ C:\Users\PisarenkoD\source\repos\PrinterError\PrinterError\obj\Debug\PrinterErro
 C:\Users\PisarenkoD\source\repos\PrinterError\PrinterError\obj\Debug\PrinterError.csproj.CoreCompileInputs.cache
 C:\Users\PisarenkoD\source\repos\PrinterError\PrinterError\obj\Debug\PrinterError.exe
 C:\Users\PisarenkoD\source\repos\PrinterError\PrinterError\obj\Debug\PrinterError.pdb
+G:\Documents\Mityunchik\Programming\Codewars\MyCodewarsSolutions\Csharp\7kyu\PrinterError\PrinterError\bin\Debug\PrinterError.exe.config
+G:\Documents\Mityunchik\Programming\Codewars\MyCodewarsSolutions\Csharp\7kyu\PrinterError\PrinterError\bin\Debug\PrinterError.exe
+G:\Documents\Mityunchik\Programming\Codewars\MyCodewarsSolutions\Csharp\7kyu\PrinterError\PrinterError\bin\Debug\PrinterError.pdb
+G:\Documents\Mityunchik\Programming\Codewars\MyCodewarsSolutions\Csharp\7kyu\PrinterError\PrinterError\obj\Debug\PrinterError.csprojResolveAssemblyReference.cache
+G:\Documents\Mityunchik\Programming\Codewars\MyCodewarsSolutions\Csharp\7kyu\PrinterError\PrinterError\obj\Debug\PrinterError.csproj.CoreCompileInputs.cache
+G:\Documents\Mityunchik\Programming\Codewars\MyCodewarsSolutions\Csharp\7kyu\PrinterError\PrinterError\obj\Debug\PrinterError.exe
+G:\Documents\Mityunchik\Programming\Codewars\MyCodewarsSolutions\Csharp\7kyu\PrinterError\PrinterError\obj\Debug\PrinterError.pdb
