@@ -1,0 +1,7 @@
+G:\Documents\Mityunchik\Programming\IsPrime\IsPrime\bin\Debug\IsPrime.exe.config
+G:\Documents\Mityunchik\Programming\IsPrime\IsPrime\bin\Debug\IsPrime.exe
+G:\Documents\Mityunchik\Programming\IsPrime\IsPrime\bin\Debug\IsPrime.pdb
+G:\Documents\Mityunchik\Programming\IsPrime\IsPrime\obj\Debug\IsPrime.csprojResolveAssemblyReference.cache
+G:\Documents\Mityunchik\Programming\IsPrime\IsPrime\obj\Debug\IsPrime.csproj.CoreCompileInputs.cache
+G:\Documents\Mityunchik\Programming\IsPrime\IsPrime\obj\Debug\IsPrime.exe
+G:\Documents\Mityunchik\Programming\IsPrime\IsPrime\obj\Debug\IsPrime.pdb
